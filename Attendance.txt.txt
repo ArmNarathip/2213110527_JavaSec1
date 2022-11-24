@@ -1,4 +1,0 @@
-StudentID: 2213110527	
-FullName : Narathip Changjai
-AKA : ArmNarathip
-ClassDetail : Control Statement
