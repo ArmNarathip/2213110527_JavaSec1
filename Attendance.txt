@@ -1,5 +1,5 @@
-Date 19-JAN-2023
+Date 26-JAN-2023
 StudentID: 2213110527	
 FullName : Narathip Changjai
 AKA : Arm
-ClassDetail : Encapsulation
+ClassDetail : Composition
