@@ -2,4 +2,4 @@ Date 02-FEB-2023
 StudentID: 2213110527	
 FullName : Narathip Changjai
 AKA : Arm
-ClassDetail : Abstract and Interface
+ClassDetail : Inheritance and  Polymor
