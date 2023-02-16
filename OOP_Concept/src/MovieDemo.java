@@ -14,11 +14,11 @@ public class MovieDemo {
 		String DiEmail = scan.nextLine();
 		System.out.print("Input director gender  : ");
 		String DiGender = scan.nextLine();
-		while(DiGender !="f","F","m","M") {
+		//while(DiGender !="f","F","m","M") {
 			
 		}
-		System.out.print("Input movie theater no. :");
-		String TheaNo = scan.nextInt;
+		//System.out.print("Input movie theater no. :");
+		//String TheaNo = scan.nextInt;
 	}
 
-}
+
